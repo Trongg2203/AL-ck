@@ -10,6 +10,12 @@ from services.meal_plan_service import MealPlanService
 import logging
 import os
 import pickle
+import __main__
+
+try:
+    from src.meal_planner import recommender as cf_recommender
+except ImportError:
+    cf_recommender = None
 
 logger = logging.getLogger(__name__)
 
@@ -20,16 +26,21 @@ meal_plan_service = MealPlanService()
 CF_MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "models", "cf_svd_model.pkl")
 
 
+def _prepare_cf_unpickle() -> None:
+    if cf_recommender is not None and getattr(cf_recommender, "_CF_AVAILABLE", False):
+        setattr(__main__, "FunkSVD", cf_recommender.FunkSVD)
+
+
 # ── Schemas for new endpoints ─────────────────────────────────────────────────
 
 class RecommendTopNRequest(BaseModel):
-    user_id: int
-    food_ids: List[int]
+    user_id: str
+    food_ids: List[str]
     top_n: Optional[int] = 10
 
 
 class FoodScore(BaseModel):
-    food_id: int
+    food_id: str
     predicted_rating: float
 
 
@@ -67,9 +78,12 @@ def cf_status():
         return {"trained": False, "model_path": model_path, "metrics": None}
 
     try:
+        _prepare_cf_unpickle()
         with open(model_path, "rb") as f:
             model_data = pickle.load(f)
         metrics = model_data.get("metrics") if isinstance(model_data, dict) else None
+        if metrics is None and isinstance(model_data, dict):
+            metrics = model_data.get("metadata")
         return {
             "trained": True,
             "model_path": model_path,
@@ -91,6 +105,7 @@ def recommend_top_n(payload: RecommendTopNRequest):
         raise HTTPException(status_code=503, detail="CF model chưa được train. Chạy train_collaborative_filter.py trước.")
 
     try:
+        _prepare_cf_unpickle()
         with open(model_path, "rb") as f:
             model_data = pickle.load(f)
     except Exception as e:

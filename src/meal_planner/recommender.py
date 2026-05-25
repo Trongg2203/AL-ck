@@ -12,6 +12,7 @@ import io
 import os
 import sys
 import pickle
+import __main__
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
@@ -29,6 +30,7 @@ try:
         _mod  = _ilu.module_from_spec(_spec)
         _spec.loader.exec_module(_mod)
         FunkSVD = _mod.FunkSVD
+        setattr(__main__, "FunkSVD", FunkSVD)
         _CF_AVAILABLE = True
     else:
         _CF_AVAILABLE = False
@@ -379,6 +381,9 @@ def load_cf_model(model_path: Optional[str] = None) -> Optional[object]:
         return None
 
     try:
+        if _CF_AVAILABLE:
+            setattr(__main__, "FunkSVD", FunkSVD)
+
         with open(path, "rb") as f:
             payload = pickle.load(f)
         _svd_model_cache = payload["model"]
