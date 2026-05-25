@@ -1,0 +1,3856 @@
+{
+  "foods": [
+    {
+      "food_name": "Ghẹ hấp",
+      "category": "Các món khác",
+      "file_name": "Dc1HEtO2Or",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Trứng vịt lộn",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "7MnpspY1r0",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Rau cải xoong xào tỏi",
+      "category": "Các món khác",
+      "file_name": "ToYssuH2Yp",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Canh rau nhút nấu bò",
+      "category": "Các món khác",
+      "file_name": "Yg18hJ3WM2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Tôm nướng",
+      "category": "Các món khác",
+      "file_name": "hvBezLja0Q",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Bánh trôi",
+      "category": "Các loại bánh",
+      "file_name": "HZEzpnOlvg",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Canh bầu nấu cơm",
+      "category": "Các món khác",
+      "file_name": "5ovK5f0xfc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Canh trai nấu chua",
+      "category": "Các món khác",
+      "file_name": "fqWCZTb5Ta",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Váng sữa Monte",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "tkvtNBz0DF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ốc vặn luộc",
+      "category": "Các món khác",
+      "file_name": "7BufpnC3jy",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn nạc vai luộc",
+      "category": "Các món khác",
+      "file_name": "k3oIRIHKCW",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Chuối tiêu",
+      "category": "Các loại trái cây",
+      "file_name": "CZspdFjkTc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Rau bí xào tỏi",
+      "category": "Các món khác",
+      "file_name": "lIGFQhBgfi",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Mực hấp",
+      "category": "Các món khác",
+      "file_name": "mp6zpL5ASm",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Trứng gà ngải cứu",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "59GNkmLXUM",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn sốt cà chua",
+      "category": "Các món khác",
+      "file_name": "rEGOA9lrnw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Sầu riêng",
+      "category": "Các loại trái cây",
+      "file_name": "pUc7C5h9Jc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Tôm đồng rang",
+      "category": "Các món khác",
+      "file_name": "yNopR6HVlo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Sữa chua có đường Ba Vì",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "YAvpCQ2UNc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Tôm sốt cà chua",
+      "category": "Các món khác",
+      "file_name": "EJbrAcKdVI",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Trứng vịt luộc",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "mBFpHO8KZw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Gỏi xoài",
+      "category": "Các món khác",
+      "file_name": "D5RKXvu0qN",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Đậu cove xào",
+      "category": "Các món khác",
+      "file_name": "ID5g7pRpbT",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa đậu nành",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "TPOEuDwi3Y",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa tươi tiệt trùng không đường TH True Milk",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "CwlFcY9abe",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Cá bống kho",
+      "category": "Các món khác",
+      "file_name": "JHsTpmcOny",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa Milo",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "kPsD0OirfC",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Chả xương xông",
+      "category": "Các món khác",
+      "file_name": "l3fPwEHnU4",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Su hào, cà rốt luộc",
+      "category": "Các món khác",
+      "file_name": "zBDzfDnKjM",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Rau khoai lang xào tỏi",
+      "category": "Các món khác",
+      "file_name": "jKBvDhih7c",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Canh rau ngót nấu thịt",
+      "category": "Các món khác",
+      "file_name": "6DoihEAY6z",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ que 1 cái",
+      "category": "Các loại bánh",
+      "file_name": "PYV1PDsTbQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cá thu kho",
+      "category": "Các món khác",
+      "file_name": "f062TAsO0u",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn ba chỉ luộc",
+      "category": "Các món khác",
+      "file_name": "ncCDc6vDmG",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Canh cá rô đồng nấu rau cải",
+      "category": "Các món khác",
+      "file_name": "DoPzyPKj9E",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Cá ngừ sống",
+      "category": "Các món khác",
+      "file_name": "KfSIk5VIEG",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Mít khô",
+      "category": "Các loại trái cây",
+      "file_name": "mC9ZgYzFop",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Trứng vịt lộn 2 quả",
+      "category": "Các món khác",
+      "file_name": "5DuoPYPmuY",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Rau cải ngồng xào tỏi",
+      "category": "Các món khác",
+      "file_name": "5JKhLzjmNf",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Tim lợn luộc",
+      "category": "Các món khác",
+      "file_name": "UI5sakH73K",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Tai lợn luộc",
+      "category": "Các món khác",
+      "file_name": "C6LDu7mWYF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Táo ta",
+      "category": "Các loại trái cây",
+      "file_name": "Py8yaLd0kk",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Canh khổ qua (mướp đắng) nhồi thịt",
+      "category": "Các món khác",
+      "file_name": "vWnf8l1Rdb",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Sữa bột tách béo",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "w0Kvizxkx0",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa đặc có đường",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "WWRzGstLI2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa tươi tiệt trùng có đường Vinamilk",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "GmlPVYfqBW",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Sữa bò tươi thanh trùng không đường TH True Milk",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "GZXH69FaQN",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Quả bơ vỏ xanh",
+      "category": "Các loại trái cây",
+      "file_name": "nwmuwLLBVL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa dê thanh trùng không đường",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "WUWnhsPjib",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn thăn rim",
+      "category": "Các món khác",
+      "file_name": "FJoVQ9hYGH",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Mướp đắng xào trứng",
+      "category": "Các món khác",
+      "file_name": "9JUeJdrgAl",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Canh mướp lạc",
+      "category": "Các món khác",
+      "file_name": "9sy1p3OJsY",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cá chày kho",
+      "category": "Các món khác",
+      "file_name": "Um9eEMcGda",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Mực xào thập cẩm",
+      "category": "Các món khác",
+      "file_name": "M2mAboyvCE",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Canh đu đủ xanh, thịt nạc",
+      "category": "Các món khác",
+      "file_name": "RHzLzVEYwR",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào măng",
+      "category": "Món xào",
+      "file_name": "ZXmOxONf6a",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Ốc mít luộc mắm",
+      "category": "Ngao, ốc",
+      "file_name": "iFXwSu7l3s",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cá Ngừ kho dứa",
+      "category": "Các món khác",
+      "file_name": "gYjWxDeMza",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Dạ dày luộc",
+      "category": "Các món khác",
+      "file_name": "U9sL1bq1Bj",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Chuối khô",
+      "category": "Các loại trái cây",
+      "file_name": "JWsoNh1xG5",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào đậu cove",
+      "category": "Món xào",
+      "file_name": "NyJc4pFKQe",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Sò huyết nướng mỡ hành",
+      "category": "Các món khác",
+      "file_name": "rFNNV5yROQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Giò lợn",
+      "category": "Các món khác",
+      "file_name": "X8osdxLQGz",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa bột toàn phần",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "L5C8ulMfBD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Mực xào dưa",
+      "category": "Các món khác",
+      "file_name": "F3GPDSNoCq",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Canh bí đỏ thịt nạt",
+      "category": "Các món khác",
+      "file_name": "P2ToDHJvZH",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Rau muống xào",
+      "category": "Món xào",
+      "file_name": "lUfM2qHIhJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ chả cá sốt cay",
+      "category": "Các loại bánh",
+      "file_name": "z0LDMbF2AA",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa bò tươi thanh trùng có đường Mộc Châu",
+      "category": "Các món trứng, sữa và chế phẩm",
+      "file_name": "3Np81sBKwh",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Salad rau củ",
+      "category": "Các món khác",
+      "file_name": "xAaDivfENm",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào nấm",
+      "category": "Món xào",
+      "file_name": "brkBA33tKa",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Cua biển hấp",
+      "category": "Các món khác",
+      "file_name": "6GFzZuVdPZ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Tôm biển hấp",
+      "category": "Các món khác",
+      "file_name": "XEPTJ42u0r",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Đậu phụ luộc",
+      "category": "Các món khác",
+      "file_name": "zinGSi641V",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ốc nhồi hấp",
+      "category": "Các món khác",
+      "file_name": "Ld9nQHEcyx",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Củ cải xào trứng",
+      "category": "Các món khác",
+      "file_name": "1dP629zgRX",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Đậu phụ kho nấm",
+      "category": "Các món khác",
+      "file_name": "XXpxMSoajh",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Lòng gà xào mướp, giá",
+      "category": "Các món khác",
+      "file_name": "Rkp1Tgfh2e",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Hạt dẻ nướng",
+      "category": "Các món khác",
+      "file_name": "2XXavN2TdX",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào su su",
+      "category": "Món xào",
+      "file_name": "mOCJgVe1ZK",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Mực xào dứa",
+      "category": "Các món khác",
+      "file_name": "cfvzUvm0OQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Ếch xào măng",
+      "category": "Các món khác",
+      "file_name": "nswAkPoFWJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt chân giò luộc",
+      "category": "Các món khác",
+      "file_name": "gczQdi5Ouf",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào cần tỏi",
+      "category": "Món xào",
+      "file_name": "Hu4njbra5P",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Rau cải chíp xào nấm",
+      "category": "Các món khác",
+      "file_name": "ipSBV8l48V",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn xiên nướng",
+      "category": "Các món khác",
+      "file_name": "UM8TVEMccX",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Bò cuốn lá cải",
+      "category": "Các món khác",
+      "file_name": "qZ7YqLe583",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Nhộng rang lá chanh",
+      "category": "Các món khác",
+      "file_name": "kqy8vKxhHo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Cua đồng rang",
+      "category": "Các món khác",
+      "file_name": "czOskCvqJk",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Canh đậu, thịt, cà chua",
+      "category": "Các món khác",
+      "file_name": "zXRxisVPUp",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Nộm rau muống",
+      "category": "Các món khác",
+      "file_name": "CmPy1dqa1k",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Nộm bò khô",
+      "category": "Các món khác",
+      "file_name": "lGI8T1xThr",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Lòng xào dưa",
+      "category": "Các món khác",
+      "file_name": "B9UizVYKsl",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt gà xào sả",
+      "category": "Món xào",
+      "file_name": "HuTQXA0f0Z",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ cay 5 cái",
+      "category": "Các loại bánh",
+      "file_name": "AsFmGe9qE6",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Gà nướng",
+      "category": "Các món khác",
+      "file_name": "TSGzfuG8h0",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Đậu đũa luộc",
+      "category": "Các món khác",
+      "file_name": "HtQ0NiPgOj",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Khoai tây xào",
+      "category": "Các món khác",
+      "file_name": "xVRGo2PBVX",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Tôm biển rang",
+      "category": "Các món khác",
+      "file_name": "FsQZjiriv7",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Cá Diếc kho",
+      "category": "Các món khác",
+      "file_name": "GW3DPtPXDz",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt xiên nướng 6 cái",
+      "category": "Các món khác",
+      "file_name": "iHfE7bYvsR",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Đậu phụ nhồi thịt sốt cà chua",
+      "category": "Các món khác",
+      "file_name": "bPVyJjudJr",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn ba chỉ kho tàu",
+      "category": "Các món khác",
+      "file_name": "FqUpITbbly",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Ngô nướng",
+      "category": "Các món khác",
+      "file_name": "HgYiEwCBc2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào hoa thiên lý",
+      "category": "Món xào",
+      "file_name": "AihdxKFals",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Dồi lợn luộc",
+      "category": "Các món khác",
+      "file_name": "HrXgPZaqpd",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sủi dìn",
+      "category": "Các món khác",
+      "file_name": "OhgOrS0z6o",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào dứa",
+      "category": "Món xào",
+      "file_name": "8aJQEB6L76",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Bê nướng",
+      "category": "Các món khác",
+      "file_name": "vvFk8fTU9e",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào hành tây, cà chua",
+      "category": "Món xào",
+      "file_name": "0F4Or6D9qi",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Gà Tần thuốc bắc",
+      "category": "Các món khác",
+      "file_name": "wsgnU3NCsA",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Thịt trâu xào rau muống",
+      "category": "Món xào",
+      "file_name": "VzssDjbguZ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Cuốn bỗng 8 cái",
+      "category": "Các loại bánh",
+      "file_name": "9WCtG4UgWw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sườn xào chua ngọt",
+      "category": "Món xào",
+      "file_name": "H2lovuj45D",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cơm hến",
+      "category": "Cơm các loại",
+      "file_name": "kYY1fK9MoN",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Canh cá lóc (Các quả) nấu chua",
+      "category": "Các món khác",
+      "file_name": "vPtV9Vhym6",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cá Trạch kho",
+      "category": "Các món khác",
+      "file_name": "7l3FowHDmL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Nem tai",
+      "category": "Các món khác",
+      "file_name": "ASadYGdANJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ngô luộc",
+      "category": "Các món khác",
+      "file_name": "NaqyZiClpN",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Lòng lợn luộc",
+      "category": "Các món khác",
+      "file_name": "18drerE0ba",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Phá lấu",
+      "category": "Các món khác",
+      "file_name": "20wUIo9w5P",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Dồi sụn nướng",
+      "category": "Các món khác",
+      "file_name": "xTx31tc1tU",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Giá bể xào",
+      "category": "Các món khác",
+      "file_name": "A2vnvDDXFo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt mông sấn kho cùi dừa",
+      "category": "Các món khác",
+      "file_name": "KX7ONBQ4T8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Lòng dồi sụn",
+      "category": "Các món khác",
+      "file_name": "6wfOOuTF2r",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Canh sườn khoai tây, cà rốt",
+      "category": "Các món khác",
+      "file_name": "gRksOgRKVe",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Đậu phụ sốt cà chua",
+      "category": "Các món khác",
+      "file_name": "f0GYzUjf39",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bê xào sả ớt",
+      "category": "Các món khác",
+      "file_name": "B1XUcYueh2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cơm nắm",
+      "category": "Cơm các loại",
+      "file_name": "V19NoplzBI",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ thịt xiên mật ong",
+      "category": "Các loại bánh",
+      "file_name": "w79jW3a6iH",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Tim bầu dục xào cần tỏi",
+      "category": "Món xào",
+      "file_name": "WCkCKkUEzo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Lươn xào sả ớt",
+      "category": "Các món khác",
+      "file_name": "66AYVnW17F",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Chim câu nướng",
+      "category": "Các món khác",
+      "file_name": "UivBfZ7vPQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Gan xào giá",
+      "category": "Các món khác",
+      "file_name": "ByRbJ7hhH3",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Canh chân giò nấu măng",
+      "category": "Các món khác",
+      "file_name": "SSDfRySd13",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bỏng ngô",
+      "category": "Các món khác",
+      "file_name": "7y65Vmp7Yl",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Gan lợn luộc",
+      "category": "Các món khác",
+      "file_name": "0nm2MavkfQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Chim cút quay lá mắc mật (4 con)",
+      "category": "Các món khác",
+      "file_name": "eiNGcZuWzq",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Nem lụi",
+      "category": "Các món khác",
+      "file_name": "A8Ioow3ttG",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Canh khoai sọ nấu xương, rau rút",
+      "category": "Các món khác",
+      "file_name": "sZn1ubvOzA",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Cá trê nướng",
+      "category": "Các món khác",
+      "file_name": "9lYqW3eWg0",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ sốt trứng cút",
+      "category": "Các loại bánh",
+      "file_name": "vvIUH45QCs",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Canh cà tím nấu bung",
+      "category": "Các món khác",
+      "file_name": "4QJRSfSO7Y",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Canh đậu trắng nấu xương lợn",
+      "category": "Các món khác",
+      "file_name": "HibxB8Ut5Q",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt chân giò nấu đông",
+      "category": "Các món khác",
+      "file_name": "fCU54TElUr",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh đa cua",
+      "category": "Bánh đa, bún, phở",
+      "file_name": "atTkAlLp97",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Ốc mỡ xào ngô",
+      "category": "Ngao, ốc",
+      "file_name": "5rA8b57xFa",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò kho",
+      "category": "Các món khác",
+      "file_name": "Od5Hnyadwn",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Bò xíu mại",
+      "category": "Các món khác",
+      "file_name": "UHJWZiaRK9",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bò nướng",
+      "category": "Các món khác",
+      "file_name": "w4hPYUeOSe",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ nướng muối ớt",
+      "category": "Các loại bánh",
+      "file_name": "9BTHmQ2w2q",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Đậu phụ kho thịt",
+      "category": "Các món khác",
+      "file_name": "VsHXDaO7eI",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào lúc lắc",
+      "category": "Món canh",
+      "file_name": "MRCR7waXfh",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Bánh tiêu",
+      "category": "Các loại bánh",
+      "file_name": "9s3qWUOTuQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bún mắm",
+      "category": "Bánh đa, bún, phở",
+      "file_name": "HsKIlwNkss",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn ba chỉ quay",
+      "category": "Các món khác",
+      "file_name": "Jk0UHsCpka",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn ba chỉ kho trứng cút",
+      "category": "Các món khác",
+      "file_name": "W4hgq0Tg4U",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Bánh giò",
+      "category": "Các loại bánh",
+      "file_name": "47UcY7CuyQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ốc bông xào me",
+      "category": "Ngao, ốc",
+      "file_name": "RXJy1kXXj6",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Gà xé phay",
+      "category": "Các món khác",
+      "file_name": "htK5UZzaSi",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ bò sốt vang",
+      "category": "Các loại bánh",
+      "file_name": "dJpgEMjdd8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Dê tái chanh",
+      "category": "Các món khác",
+      "file_name": "bjwU7XaFiB",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Nộm tai heo thập cẩm",
+      "category": "Các món khác",
+      "file_name": "JGkpjRxLSt",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Bánh xiên quẩy đường",
+      "category": "Các loại bánh",
+      "file_name": "hUDPNqqgOR",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bê hấp",
+      "category": "Các món khác",
+      "file_name": "AAwDNTP8Fo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn quay",
+      "category": "Các món khác",
+      "file_name": "0qzntFKgHB",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Lươn om chuối đậu",
+      "category": "Các món khác",
+      "file_name": "TghsR5ZKEQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Bánh đa ngan",
+      "category": "Bánh đa, bún, phở",
+      "file_name": "wgw8kUqQtt",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Bánh đa bò nhừ",
+      "category": "Bánh đa, bún, phở",
+      "file_name": "tj5Q5gcQt0",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Lưỡi lợn luộc",
+      "category": "Các món khác",
+      "file_name": "S1y4BMYJEL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bún bò dấm",
+      "category": "Bánh đa, bún, phở",
+      "file_name": "tiJz4bqAVn",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Cá Nục kho",
+      "category": "Các món khác",
+      "file_name": "kzMxNp5X55",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ốc bông xào bơ trứng mặn",
+      "category": "Ngao, ốc",
+      "file_name": "n30tePf73j",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Thịt gà luộc",
+      "category": "Các món khác",
+      "file_name": "BZozYJrwnw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Canh cá mè nấu chuối",
+      "category": "Các món khác",
+      "file_name": "RvHKAYv6Hi",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Ốc om chuối đậu",
+      "category": "Các món khác",
+      "file_name": "dpGnO99Bxc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Nộm hoa chuối thịt gà",
+      "category": "Các món khác",
+      "file_name": "qZ6tw1ednL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Nem Thính",
+      "category": "Các món khác",
+      "file_name": "qGaaRGgFWx",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Gỏi ngó sen",
+      "category": "Các món khác",
+      "file_name": "6Ty11V0a3X",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh đa cuốn thập cẩm",
+      "category": "Các món khác",
+      "file_name": "3OQlALPZ9M",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Cơm sườn",
+      "category": "Cơm các loại",
+      "file_name": "Coo8vWSJ6y",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cơm rang thập cẩm",
+      "category": "Cơm các loại",
+      "file_name": "UbJDxtMvz7",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Cơm suất văn phòng (Thịt nạc vai, su hào)",
+      "category": "Cơm các loại",
+      "file_name": "O0k0iOdy6h",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Vịt rang me",
+      "category": "Các món khác",
+      "file_name": "7OaqKzxayi",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Cơm suất văn phòng (Thịt ba chỉ, đậu phụ)",
+      "category": "Cơm các loại",
+      "file_name": "MPEh4YkVCT",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Bì bò",
+      "category": "Các loại bánh",
+      "file_name": "yvc9ZHsjBJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thịt chim câu xào răm",
+      "category": "Món xào",
+      "file_name": "RRnk1lnCE3",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ chảo",
+      "category": "Các loại bánh",
+      "file_name": "IjsoU2d4n7",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ chảo sốt ngọt",
+      "category": "Các loại bánh",
+      "file_name": "jo1U4lKmcA",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mỳ cay",
+      "category": "Các loại bánh",
+      "file_name": "rKVyIBQeJX",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cơm suất văn phòng (Thịt nạc vai, đậu phụ)",
+      "category": "Cơm các loại",
+      "file_name": "Ikn3cBiNHy",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Thịt lợn ba chỉ rang cháy cạnh",
+      "category": "Các món khác",
+      "file_name": "cumDkundEO",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Thịt mông sấn kho củ cải",
+      "category": "Các món khác",
+      "file_name": "ICurznNvh3",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Uc ga luoc",
+      "category": "Mon giam can",
+      "file_name": "J7pqdvVKAZ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ca hoi nuong",
+      "category": "Mon giam can",
+      "file_name": "urwaF0A7y1",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Bong cai xanh luoc",
+      "category": "Mon giam can",
+      "file_name": "ITTAs4dkYo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Trung ga luoc",
+      "category": "Mon giam can",
+      "file_name": "Z74Jmd56jo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Dau hu hap",
+      "category": "Mon giam can",
+      "file_name": "Cfx5Ompm1O",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Salad rau tron dau oliu",
+      "category": "Mon giam can",
+      "file_name": "qCUYJN8t3h",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Ca ngu dong hop",
+      "category": "Mon giam can",
+      "file_name": "XWk5kV77Si",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Sua chua khong duong",
+      "category": "Mon giam can",
+      "file_name": "DL9Avk52ft",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Rau xao toi",
+      "category": "Mon giam can",
+      "file_name": "uvQe9C4cj9",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Sup rau cu",
+      "category": "Mon giam can",
+      "file_name": "hx3o1205G2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Cai xoan kale xao",
+      "category": "Mon giam can",
+      "file_name": "S7D6an8ugQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Ca chua bi",
+      "category": "Mon giam can",
+      "file_name": "uhSjsRHluc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Dua chuot",
+      "category": "Mon giam can",
+      "file_name": "1wBxn17GMH",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ga hap gung",
+      "category": "Mon giam can",
+      "file_name": "flTjZDy0Kw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Canh bi dao",
+      "category": "Mon giam can",
+      "file_name": "N6op6ajpB6",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ot chuong nhoi thit",
+      "category": "Mon giam can",
+      "file_name": "WKjkGBnEXm",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Ca ro phi hap",
+      "category": "Mon giam can",
+      "file_name": "PiFHh0vnBZ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Long trang trung chien",
+      "category": "Mon giam can",
+      "file_name": "a8jFf7A4RG",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Sup bap cai",
+      "category": "Mon giam can",
+      "file_name": "WjRdRnQOGI",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Can tay xao",
+      "category": "Mon giam can",
+      "file_name": "gtw8YM1vk7",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Tom luoc",
+      "category": "Mon giam can",
+      "file_name": "nDpkce6L4o",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Nam xao toi",
+      "category": "Mon giam can",
+      "file_name": "LjcgYWsxpc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Thit bo bit tet nac",
+      "category": "Mon giam can",
+      "file_name": "Cb7Zq6UhjY",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Ca thu nuong",
+      "category": "Mon giam can",
+      "file_name": "RqqSRny79v",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Mang tay nuong",
+      "category": "Mon giam can",
+      "file_name": "7eNJVtk2kk",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Com gao lut uc ga",
+      "category": "Mon da dang gym",
+      "file_name": "G52SLMmGJ8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Pho bo",
+      "category": "Mon da dang gym",
+      "file_name": "eT1QXWCVcV",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Bun ga",
+      "category": "Mon da dang gym",
+      "file_name": "084vU2yKQK",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Com chien trung",
+      "category": "Mon da dang gym",
+      "file_name": "kyZRrXv0uh",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Ca hoi sot chanh",
+      "category": "Mon da dang gym",
+      "file_name": "g39bygUBzd",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Dau hu chien sa",
+      "category": "Mon da dang gym",
+      "file_name": "FMU3Gxquum",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Tom nuong",
+      "category": "Mon da dang gym",
+      "file_name": "FebLCATkT3",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Ga nuong mat ong",
+      "category": "Mon da dang gym",
+      "file_name": "emk3IlrEnJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ca ba sa kho to",
+      "category": "Mon da dang gym",
+      "file_name": "RNqMSnNKnT",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Thit heo nac luoc",
+      "category": "Mon da dang gym",
+      "file_name": "lzTCTJNtN9",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Muc xao rau",
+      "category": "Mon da dang gym",
+      "file_name": "juo3DLmuHV",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Com tam suon",
+      "category": "Mon da dang gym",
+      "file_name": "Cnz27nljxU",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Hu tieu bo",
+      "category": "Mon da dang gym",
+      "file_name": "4qWPgCjxVE",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Bun bo hue",
+      "category": "Mon da dang gym",
+      "file_name": "H1M1VxURXP",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Chao ga",
+      "category": "Mon da dang gym",
+      "file_name": "E9xuDkkUh6",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ca kho to",
+      "category": "Mon da dang gym",
+      "file_name": "3vgnPRYIvb",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ga rang muoi",
+      "category": "Mon da dang gym",
+      "file_name": "oPgiBDSzYC",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Thit bo xao rau cu",
+      "category": "Mon da dang gym",
+      "file_name": "d1GF3dopas",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Canh chua ca",
+      "category": "Mon da dang gym",
+      "file_name": "W6YuSGjyTV",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Tom su hap sa",
+      "category": "Mon da dang gym",
+      "file_name": "MMsMyvBS2U",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Com trang thit kho",
+      "category": "Mon da dang gym",
+      "file_name": "ojtv1cAaB9",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Dau phu sot ca chua",
+      "category": "Mon da dang gym",
+      "file_name": "N84Vkxa7VC",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Ga hap bia",
+      "category": "Mon da dang gym",
+      "file_name": "zfABWwnRO9",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ca ngu ap chao",
+      "category": "Mon da dang gym",
+      "file_name": "y6guipjdoa",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Rau xao thap cam",
+      "category": "Mon da dang gym",
+      "file_name": "rbQZWAbZlg",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Bo xao nam",
+      "category": "Mon da dang gym",
+      "file_name": "kxY31DoBv2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Chao dau xanh",
+      "category": "Mon da dang gym",
+      "file_name": "n2mZ45XLug",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Mi ga it beo",
+      "category": "Mon da dang gym",
+      "file_name": "SvrLz1Lo4q",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Lau rau ca",
+      "category": "Mon da dang gym",
+      "file_name": "Q34e08Mfdx",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Cua hap bia",
+      "category": "Mon da dang gym",
+      "file_name": "gGTbozRxN3",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Trung cuon rau",
+      "category": "Mon da dang gym",
+      "file_name": "wqstaEvafh",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Suon heo nuong",
+      "category": "Mon da dang gym",
+      "file_name": "GPWzFrZE9o",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Xuc xich ga",
+      "category": "Mon da dang gym",
+      "file_name": "ZFIF6bxvSD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Nom ga bap cai",
+      "category": "Mon da dang gym",
+      "file_name": "13Hr1M6ARj",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Vit quay it da",
+      "category": "Mon da dang gym",
+      "file_name": "Ax6hDVrdSP",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Ca bong hap",
+      "category": "Mon da dang gym",
+      "file_name": "b8apOGGR7U",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "So diep nuong",
+      "category": "Mon da dang gym",
+      "file_name": "dbST2u0MNU",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Com trang thit ba chi kho",
+      "category": "Mon tang can",
+      "file_name": "ITTDiIfaXr",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Bun bo xao beo",
+      "category": "Mon tang can",
+      "file_name": "XQkAlR9e0m",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Com nep ga beo",
+      "category": "Mon tang can",
+      "file_name": "KyASPkFynt",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Trung chien bo",
+      "category": "Mon tang can",
+      "file_name": "FBGSwo2rcZ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Chao thit bam beo",
+      "category": "Mon tang can",
+      "file_name": "2M14zpUJVX",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Mi xao bo thap cam",
+      "category": "Mon tang can",
+      "file_name": "FdssPqVviL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Com suon nuong mo",
+      "category": "Mon tang can",
+      "file_name": "WbcsQwqTET",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thit kho hot vit",
+      "category": "Mon tang can",
+      "file_name": "V6CgFPANa3",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Ga ran bo toi",
+      "category": "Mon tang can",
+      "file_name": "D4YU4RQUyy",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Bun thit nuong",
+      "category": "Mon tang can",
+      "file_name": "RrCE8ls9ms",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Com chien hai san",
+      "category": "Mon tang can",
+      "file_name": "vpKPvjxK73",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Mi Y thit bo beo",
+      "category": "Mon tang can",
+      "file_name": "0EzaEAPoUt",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Khoai lang nuong bo",
+      "category": "Mon tang can",
+      "file_name": "4xOXFEEwNx",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Yen mach sua mat ong",
+      "category": "Mon tang can",
+      "file_name": "ssWSD6lYYg",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Sinh to bo sua chuoi",
+      "category": "Mon tang can",
+      "file_name": "JQ9Jai5J3Z",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Banh mi trung pho mai",
+      "category": "Mon tang can",
+      "file_name": "SRLbHpG9wb",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Chao ga dau phong",
+      "category": "Mon tang can",
+      "file_name": "4jc70jWr2T",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Com tam suon bi cha",
+      "category": "Mon tang can",
+      "file_name": "HUC3EIoKAV",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Thit heo quay",
+      "category": "Mon tang can",
+      "file_name": "zIF8F9f9MU",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Vit nuong cam",
+      "category": "Mon tang can",
+      "file_name": "UwUrV07RyT",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Com ga hai nam",
+      "category": "Mon tang can",
+      "file_name": "NLaHg95vst",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Bun rieu cua",
+      "category": "Mon tang can",
+      "file_name": "oVeNixHuDv",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Hu tieu Nam Vang",
+      "category": "Mon tang can",
+      "file_name": "KWhA2G2EwJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Ga nuong kieu Han",
+      "category": "Mon quoc te gym",
+      "file_name": "IBoGWkdRKr",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ca hoi sot cam",
+      "category": "Mon quoc te gym",
+      "file_name": "1VdsxgMWBq",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Bibimbap chay",
+      "category": "Mon quoc te gym",
+      "file_name": "xOanP599ig",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Kimchi dau hu",
+      "category": "Mon quoc te gym",
+      "file_name": "Sk6SM6WdQD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Pasta ga it beo",
+      "category": "Mon quoc te gym",
+      "file_name": "Mlq2DFeqtq",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Salad Hy Lap",
+      "category": "Mon quoc te gym",
+      "file_name": "cK4ue63rHO",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bit tet bo nac",
+      "category": "Mon quoc te gym",
+      "file_name": "r1PC548og5",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Ga tay nuong",
+      "category": "Mon quoc te gym",
+      "file_name": "shbFjj2Qmi",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Quinoa bowl rau cu",
+      "category": "Mon quoc te gym",
+      "file_name": "loYGdjiv8e",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Shakshuka trung",
+      "category": "Mon quoc te gym",
+      "file_name": "hhNk4m19Hp",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Bap cai cuon thit",
+      "category": "Mon quoc te gym",
+      "file_name": "Z0VPHcyJtF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "So co la den",
+      "category": "Mon quoc te gym",
+      "file_name": "75h5aRWfST",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Pad Thai ga",
+      "category": "Mon quoc te gym",
+      "file_name": "7JYDlQdZ6w",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Tom Yum hai san",
+      "category": "Mon quoc te gym",
+      "file_name": "nF0lNTGBiD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Som Tum ga",
+      "category": "Mon quoc te gym",
+      "file_name": "pXhjG7EEmY",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ga nuong kieu Thai",
+      "category": "Mon quoc te gym",
+      "file_name": "zwUjKDZAKF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ca ngu sashimi",
+      "category": "Mon quoc te gym",
+      "file_name": "dwRbw3CBQ9",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Onigiri ga",
+      "category": "Mon quoc te gym",
+      "file_name": "ZrNK5LFJQZ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Miso soup dau hu",
+      "category": "Mon quoc te gym",
+      "file_name": "AYj6t8UpHA",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Udon ga",
+      "category": "Mon quoc te gym",
+      "file_name": "sBJETAN2gv",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Tempura tom it dau",
+      "category": "Mon quoc te gym",
+      "file_name": "NYoS6ElA4B",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Teriyaki ga",
+      "category": "Mon quoc te gym",
+      "file_name": "wWS6Afb9nz",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Taco ga",
+      "category": "Mon quoc te gym",
+      "file_name": "HPv8aBrCGw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Burrito dau den",
+      "category": "Mon quoc te gym",
+      "file_name": "gZka2FRdDR",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Guacamole bo",
+      "category": "Mon quoc te gym",
+      "file_name": "RsOR7bDo4k",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Bulgar wheat salad",
+      "category": "Mon quoc te gym",
+      "file_name": "wOnL1T4oys",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Com den Nhat",
+      "category": "Mon quoc te gym",
+      "file_name": "CfSxnwHcqO",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Ramen ga it beo",
+      "category": "Mon quoc te gym",
+      "file_name": "e6mFYL4hRD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Edamame luoc",
+      "category": "Mon quoc te gym",
+      "file_name": "X7xBrbkgVt",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Hummus rau cu",
+      "category": "Mon quoc te gym",
+      "file_name": "cH04yQiMCz",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Bua sang Dia Trung Hai",
+      "category": "Mon quoc te gym",
+      "file_name": "f6TUhASH6m",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Granola sua chua trai cay",
+      "category": "Mon quoc te gym",
+      "file_name": "0Rc5NBoArF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Banh protein yen mach",
+      "category": "Mon quoc te gym",
+      "file_name": "HqWR4EKvYK",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Smoothie xanh detox",
+      "category": "Mon quoc te gym",
+      "file_name": "20oLycwfhD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Bulgogi bo Han",
+      "category": "Mon quoc te gym",
+      "file_name": "6fIb8wCBiQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh canh cua",
+      "category": "Món đa dạng gym",
+      "file_name": "zhI69XBaDt",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Bánh gạo + bơ đậu phộng",
+      "category": "Món tăng cân",
+      "file_name": "mtgTzyx8ht",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Bánh hamburger thịt nạc",
+      "category": "Món tăng cân",
+      "file_name": "9PRuhkis4d",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mì đen nguyên cám",
+      "category": "Món đa dạng gym",
+      "file_name": "u8oZuR1DTw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Bánh mì trắng",
+      "category": "Món tăng cân",
+      "file_name": "gBYxoGfz5e",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Bánh pancake protein",
+      "category": "Món tăng cân",
+      "file_name": "TPJ30admjw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Bánh quy bơ",
+      "category": "Món tăng cân",
+      "file_name": "Ik02LqmOV9",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bánh sandwich ức gà",
+      "category": "Món đa dạng gym",
+      "file_name": "jt6X6RSYaG",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Bơ (nửa trái)",
+      "category": "Món giảm cân",
+      "file_name": "CLOYJIDJss",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Bột cacao nguyên chất",
+      "category": "Món quốc tế gym",
+      "file_name": "OMBGB1FZAA",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Bún bò rau nhiều thịt nạc",
+      "category": "Món đa dạng gym",
+      "file_name": "nJFB64LzpI",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Bún cá thu",
+      "category": "Món đa dạng gym",
+      "file_name": "vapsD6JRgT",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Bún gà xay rau củ",
+      "category": "Món đa dạng gym",
+      "file_name": "gvqh1DcHhp",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Cá ba sa kho tiêu ít dầu",
+      "category": "Món đa dạng gym",
+      "file_name": "1uNVzIXhOd",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Cá chép hấp",
+      "category": "Món giảm cân",
+      "file_name": "RcvmymUzZY",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cà chua tươi",
+      "category": "Món giảm cân",
+      "file_name": "MOc5iS0dIK",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cá hồi áp chảo ít dầu",
+      "category": "Món giảm cân",
+      "file_name": "oOCYJcPpPd",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Cá hồi sốt teriyaki",
+      "category": "Món quốc tế gym",
+      "file_name": "gnxwRCGZDQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Cá ngừ hấp",
+      "category": "Món giảm cân",
+      "file_name": "4sPnTt2u8T",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Cà rốt luộc",
+      "category": "Món giảm cân",
+      "file_name": "P4TLRHJph6",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Cải xoăn luộc",
+      "category": "Món giảm cân",
+      "file_name": "lLaaZ9fhW7",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cam tươi",
+      "category": "Món giảm cân",
+      "file_name": "bfpy5lwaIH",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Canh gà + noodle nguyên hạt",
+      "category": "Món đa dạng gym",
+      "file_name": "joZHRWaHmo",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Canh thịt bò + rau",
+      "category": "Món đa dạng gym",
+      "file_name": "MLNh0dMta7",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Chuối + mật ong tự nhiên",
+      "category": "Món tăng cân",
+      "file_name": "dRL96mdbbx",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Chuối chín",
+      "category": "Món tăng cân",
+      "file_name": "hBCYBOEEqQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Cơm chiên gà",
+      "category": "Món đa dạng gym",
+      "file_name": "wZIxFGzRek",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Cơm chiên gà nạc",
+      "category": "Món đa dạng gym",
+      "file_name": "J9DkzALOSy",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Cơm tấm gà nướng bơ dầu",
+      "category": "Món tăng cân",
+      "file_name": "0mG6FFJYJJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Cơm trắng nấu",
+      "category": "Món đa dạng gym",
+      "file_name": "j41zqdpDBR",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Cua luộc nước muối",
+      "category": "Món giảm cân",
+      "file_name": "08Fgl4d303",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Dầu dừa nguyên chất",
+      "category": "Món tăng cân",
+      "file_name": "ayy6QtDVkc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Dâu đen hầm",
+      "category": "Món giảm cân",
+      "file_name": "2vHGdFj7yA",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Dâu tây tươi",
+      "category": "Món giảm cân",
+      "file_name": "TQx47fuZ2t",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Dưa chuột tươi",
+      "category": "Món giảm cân",
+      "file_name": "74FH5PDpg7",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Dưa hấu tươi",
+      "category": "Món giảm cân",
+      "file_name": "ysMOUjtgdT",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Dùm gà hấp",
+      "category": "Món giảm cân",
+      "file_name": "iRo4aoD51U",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Đậu hũ non hấp nấm",
+      "category": "Món giảm cân",
+      "file_name": "yTfdMmG9KR",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Đậu hũ trắng hấp",
+      "category": "Món giảm cân",
+      "file_name": "87cvBsB3io",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Đậu lăng hầm",
+      "category": "Món giảm cân",
+      "file_name": "cjl3bj9YS4",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Đậu phộng rang muối",
+      "category": "Món tăng cân",
+      "file_name": "RGDnyavOjC",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Đậu que luộc",
+      "category": "Món giảm cân",
+      "file_name": "ZMDyESAMXq",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Đu đủ tươi",
+      "category": "Món giảm cân",
+      "file_name": "wsPpLtrwBF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Edamame hấp muối",
+      "category": "Món quốc tế gym",
+      "file_name": "kaztFz3qOU",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Gà cà ri xanh kiểu Thái",
+      "category": "Món quốc tế gym",
+      "file_name": "OPaaoTuzuL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Gà chiên không dầu + cơm",
+      "category": "Món đa dạng gym",
+      "file_name": "RlVWsy6sje",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Gà nạc chiên không dầu",
+      "category": "Món giảm cân",
+      "file_name": "8GQHPJHJAN",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Gà xào rau củ lẫn lộn",
+      "category": "Món đa dạng gym",
+      "file_name": "2m3VQlniZw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Gạo dẻo nấu",
+      "category": "Món tăng cân",
+      "file_name": "64ywZc3yVJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Gạo lứt + thịt nạc nướng",
+      "category": "Món đa dạng gym",
+      "file_name": "opwA96chkc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Gạo lứt nấu",
+      "category": "Món đa dạng gym",
+      "file_name": "O7kBoQHOtF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Granola + sữa tươi",
+      "category": "Món tăng cân",
+      "file_name": "DKjVy7ZXR4",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Granola ngũ cốc",
+      "category": "Món tăng cân",
+      "file_name": "Pqodks6LYr",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Hải sản nướng lẫn lộn",
+      "category": "Món đa dạng gym",
+      "file_name": "La76gK4zfG",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Hạt điều rang",
+      "category": "Món tăng cân",
+      "file_name": "Eum4ddytxW",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Hạt hạnh nhân rang không muối",
+      "category": "Món giảm cân",
+      "file_name": "A3lWIbWCx8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Hỗn hợp hạt + hoa quả",
+      "category": "Món tăng cân",
+      "file_name": "8E805DB8s5",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Hủ tiếu gà",
+      "category": "Món đa dạng gym",
+      "file_name": "J6XyqMhERd",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Khoai lang luộc",
+      "category": "Món đa dạng gym",
+      "file_name": "LjUasamcet",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Khoai tây hấp",
+      "category": "Món đa dạng gym",
+      "file_name": "A6OEIZElgN",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Lòng trắng trứng luộc",
+      "category": "Món giảm cân",
+      "file_name": "YyBoMCJ8bc",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Lúa mạch nấu + cá hấp",
+      "category": "Món đa dạng gym",
+      "file_name": "BcKFbpEB3r",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Mật ong nguyên chất",
+      "category": "Món tăng cân",
+      "file_name": "WbM1tjoFlf",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Mì ống lứt + sốt cà chua",
+      "category": "Món đa dạng gym",
+      "file_name": "DNCHEjd2h8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Mì sợi nấu",
+      "category": "Món đa dạng gym",
+      "file_name": "71y82DoOBJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Mì Ý sốt thịt bò nạc",
+      "category": "Món tăng cân",
+      "file_name": "11DPYjDiPN",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Miến gà nấm",
+      "category": "Món đa dạng gym",
+      "file_name": "mzBGHD7hiL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Mực luộc tỏi ớt",
+      "category": "Món giảm cân",
+      "file_name": "gK4g8rFh1r",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Nấm hương xào",
+      "category": "Món giảm cân",
+      "file_name": "utqgJaPk73",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Nho tươi",
+      "category": "Món giảm cân",
+      "file_name": "xKJ1OU9TFb",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Nước cam tươi",
+      "category": "Món đa dạng gym",
+      "file_name": "W2zaxt1b4s",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Nước mía tươi",
+      "category": "Món tăng cân",
+      "file_name": "ZifDNgBbGD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Phở bò nạc",
+      "category": "Món đa dạng gym",
+      "file_name": "qlHqyGavdZ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Phở gà",
+      "category": "Món đa dạng gym",
+      "file_name": "0DxMbIGiez",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Phô mai cottage không béo",
+      "category": "Món giảm cân",
+      "file_name": "pLjBbD5JdJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Phô mai mozzarella",
+      "category": "Món tăng cân",
+      "file_name": "6TRXnPAUsp",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Pizza topping gà + rau",
+      "category": "Món tăng cân",
+      "file_name": "cjYhZwdX8Q",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Quinoa nấu với rau + gà",
+      "category": "Món quốc tế gym",
+      "file_name": "fxgMeXA4is",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Rau cần vịt luộc",
+      "category": "Món giảm cân",
+      "file_name": "I4LIX50ZCh",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Rau spinach hấp",
+      "category": "Món giảm cân",
+      "file_name": "UbRVJSxx1P",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Salad cá ngừ dầu olive",
+      "category": "Món giảm cân",
+      "file_name": "z3VNSWkCsU",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Salad đậu gà + rau tươi",
+      "category": "Món giảm cân",
+      "file_name": "iFbgw2Sol8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Salad gà nướng + rau xanh",
+      "category": "Món giảm cân",
+      "file_name": "lIkSP2zgl1",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Salad tôm + dâu tây",
+      "category": "Món giảm cân",
+      "file_name": "hH091yJqUG",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Sinh tố protein chuối",
+      "category": "Món tăng cân",
+      "file_name": "FilH0jVw8N",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Smoothie chuối + sữa",
+      "category": "Món tăng cân",
+      "file_name": "d3TtLVxQZ2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Socola đen 70%",
+      "category": "Món quốc tế gym",
+      "file_name": "NF3wjsL1ar",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Sữa chua Hy Lạp + ngũ cốc",
+      "category": "Món tăng cân",
+      "file_name": "AsxE0mfmyy",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Sữa chua Hy Lạp không đường",
+      "category": "Món giảm cân",
+      "file_name": "33B5vJ92dj",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Sữa đặc 200ml",
+      "category": "Món tăng cân",
+      "file_name": "RgLcOUaFP4",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sữa tươi không đường 200ml",
+      "category": "Món đa dạng gym",
+      "file_name": "nbS1bH0ZzU",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Sup đậu lăng + rau",
+      "category": "Món giảm cân",
+      "file_name": "RABzPnPtyw",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Sup hải sản + rau",
+      "category": "Món đa dạng gym",
+      "file_name": "C8dnMeDuji",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Taco cá nướng",
+      "category": "Món quốc tế gym",
+      "file_name": "3AxlNmPgO8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Miscellaneous",
+      "success": true
+    },
+    {
+      "food_name": "Táo đỏ",
+      "category": "Món giảm cân",
+      "file_name": "monp4kUhDr",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Dessert",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò kiểu Hàn nướng",
+      "category": "Món quốc tế gym",
+      "file_name": "gSBqGhAfdE",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò nạc hấp",
+      "category": "Món giảm cân",
+      "file_name": "x5dsmXV0Zv",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò nướng",
+      "category": "Món đa dạng gym",
+      "file_name": "HP9VrwjWzm",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Thịt bò xào cần tây",
+      "category": "Món giảm cân",
+      "file_name": "uojysgoNuh",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Beef",
+      "success": true
+    },
+    {
+      "food_name": "Thịt gà rán giòn",
+      "category": "Món tăng cân",
+      "file_name": "wocW82Bm1z",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Thịt heo nạc hấp",
+      "category": "Món giảm cân",
+      "file_name": "26gxrh0gGk",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pork",
+      "success": true
+    },
+    {
+      "food_name": "Thịt vịt nạc luộc",
+      "category": "Món giảm cân",
+      "file_name": "DpnyaznCS8",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Lamb",
+      "success": true
+    },
+    {
+      "food_name": "Tôm hấp sả",
+      "category": "Món giảm cân",
+      "file_name": "832BE7QOqX",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Tôm luộc nước muối",
+      "category": "Món giảm cân",
+      "file_name": "VUtlq6Cylq",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Seafood",
+      "success": true
+    },
+    {
+      "food_name": "Trứng cút nướng",
+      "category": "Món đa dạng gym",
+      "file_name": "GFuynfEvwQ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Breakfast",
+      "success": true
+    },
+    {
+      "food_name": "Trứng cút nướng + khoai tây",
+      "category": "Món đa dạng gym",
+      "file_name": "QZQY3YlnN0",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Trứng gà chiên",
+      "category": "Món đa dạng gym",
+      "file_name": "eaaa8PaseD",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Trứng gà xào tỏi",
+      "category": "Món đa dạng gym",
+      "file_name": "eJIZXx171q",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Trứng omelet + rau cà chua",
+      "category": "Món đa dạng gym",
+      "file_name": "pQHrBX3PBJ",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Trứng trộn + bánh mì nguyên hạt",
+      "category": "Món đa dạng gym",
+      "file_name": "l6i2e0wHkF",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Pasta",
+      "success": true
+    },
+    {
+      "food_name": "Ức gà hấp gừng",
+      "category": "Món giảm cân",
+      "file_name": "hdQeVYDRvb",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ức gà nướng lá chanh",
+      "category": "Món giảm cân",
+      "file_name": "DwUQ8ZRkzH",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Ức gà xào bông cải xanh",
+      "category": "Món giảm cân",
+      "file_name": "DzJbdGASk2",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    },
+    {
+      "food_name": "Xà lách trộn dầu olive",
+      "category": "Món giảm cân",
+      "file_name": "QCgnp4kK9A",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Vegetarian",
+      "success": true
+    },
+    {
+      "food_name": "Yến mạch ngâm sữa không đường",
+      "category": "Món đa dạng gym",
+      "file_name": "3sTnWGwEgL",
+      "file_ext": "jpg",
+      "directory": "foods",
+      "meal_category": "Chicken",
+      "success": true
+    }
+  ]
+}
