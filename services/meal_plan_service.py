@@ -133,17 +133,31 @@ class MealPlanService:
 
         for day_number in range(1, 8):
             day_meals: List[MealItem] = []
+            # food_ids already used *today* — used to avoid repeating the same
+            # dish across breakfast/lunch/dinner of a single day.
+            day_used: set = set()
             day_cal = day_prot = day_carbs = day_fat = 0.0
 
             for meal_type, cal_ratio in MEAL_DISTRIBUTION.items():
                 target_cal = payload.target_calories * cal_ratio
 
-                # Lấy danh sách candidates cho meal_type này
-                candidates = self._get_candidates(foods, meal_type, usage_count, max_uses)
+                # 1) Prefer foods NOT used today and under the weekly cap.
+                candidates = self._get_candidates(
+                    foods, meal_type, usage_count, max_uses, exclude_ids=day_used
+                )
 
+                # 2) Relax the weekly cap, but still avoid same-day repeats.
                 if not candidates:
-                    # Fallback: relax constraint
-                    candidates = self._get_candidates(foods, meal_type, usage_count, max_uses * 2)
+                    candidates = self._get_candidates(
+                        foods, meal_type, usage_count, max_uses * 2, exclude_ids=day_used
+                    )
+
+                # 3) Last resort only: allow a food already used today — i.e. when
+                #    there is genuinely no other option left for this meal.
+                if not candidates:
+                    candidates = self._get_candidates(
+                        foods, meal_type, usage_count, max_uses * 2
+                    )
 
                 if not candidates:
                     logger.warning("Day %d, meal_type %d: không đủ candidates", day_number, meal_type)
@@ -176,6 +190,7 @@ class MealPlanService:
                 ))
 
                 usage_count[best.id] += 1
+                day_used.add(best.id)
                 day_cal   += total_cal
                 day_prot  += total_prot
                 day_carbs += total_carb
@@ -238,16 +253,20 @@ class MealPlanService:
         meal_type: int,
         usage_count: Dict[str, int],
         max_uses: int,
+        exclude_ids: Optional[set] = None,
     ) -> List[FoodItem]:
         """
         Lấy candidates cho meal_type cụ thể,
         lọc theo meal_type (0=any, hoặc đúng meal_type),
-        và chưa vượt max_uses.
+        chưa vượt max_uses, và không nằm trong exclude_ids
+        (dùng để tránh lặp món trong cùng một ngày).
         """
+        exclude_ids = exclude_ids or set()
         return [
             f for f in foods
             if (f.meal_type == 0 or f.meal_type == meal_type)
             and usage_count.get(f.id, 0) < max_uses
+            and f.id not in exclude_ids
             and f.calories > 0
         ]
 
